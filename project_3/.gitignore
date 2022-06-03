@@ -1,0 +1,3 @@
+# ignore pkl files
+data/finalized_cvec_rf_gs_model.pkl
+data/finalized_tfidf_rf_gs_model.pkl
